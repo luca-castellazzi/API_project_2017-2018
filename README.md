@@ -13,6 +13,6 @@ The final mark was based on the efficiency of the algorithm w.r.t. both temporal
 ## How to run the code
 1. Clone this repository
 2. Open a terminal window and go in the repository folder
-3. Type ```shell ./NDTMSimulator < input_samples/INPUT_FILE_NAME``` (where INPUT_FILE_NAME must be replaced with one among dontGetLost.txt, fancyLoops.txt, increasingStuff.txt, mindYourLeft.txt, toCOrNotToC.txt, unionStuck.txt)
+3. Type ```./NDTMSimulator < input_samples/INPUT_FILE_NAME``` (where INPUT_FILE_NAME must be replaced with one among dontGetLost.txt, fancyLoops.txt, increasingStuff.txt, mindYourLeft.txt, toCOrNotToC.txt, unionStuck.txt)
 
 The output can be checked looking at the corresponding file in the output_samples folder.
