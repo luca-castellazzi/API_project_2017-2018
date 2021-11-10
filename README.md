@@ -1,7 +1,7 @@
 # API Project, A.Y. 2017-2018
 
 ## Overview
-This is the project of the "Algoritmi e Principi dell'Informatica" course @ Politecnico di Milano, A.Y. 2017-2018.
+This is the project for the "Algoritmi e Principi dell'Informatica" course @ Politecnico di Milano, A.Y. 2017-2018.
 
 The goal of the project is the implementation of a Non-Deterministic Turing Machine Simulator using the C programming language.
 
